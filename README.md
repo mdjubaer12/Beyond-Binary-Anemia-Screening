@@ -1,5 +1,5 @@
 # Beyond-Binary-Anemia-Screening
-ABSTRACT
+# ABSTRACT
 Most automated anemia screening systems classify patients as Anemic or Non-Anemic, a binary
 design that structurally ignores compensated microcytic phenotypes characteristic of thalassemia
 trait. This study presents an explainable tri-class complete blood count (CBC)-based machine
